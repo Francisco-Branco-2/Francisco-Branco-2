@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Branco</h1>
-<h3 align="center">"My name is [Your Name], I am 20 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Engineering at UBI (University of Beira Interior). Currently, I am halfway through my studies, and over the last few years, I have developed a strong interest in Finance and Economics alongside technology. My goal is to work in Quantitative Finance, a field where I can combine my passion for coding with my enthusiasm for financial markets."</h3>
+<h3 align="center">"My name is Francisco, I am 20 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Engineering at UBI (University of Beira Interior). Currently, I am halfway through my studies, and over the last few years, I have developed a strong interest in Finance and Economics alongside technology. My goal is to work in Quantitative Finance, a field where I can combine my passion for coding with my enthusiasm for financial markets."</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francisco-branco-2" alt="francisco-branco-2" /></a> </p>
 
