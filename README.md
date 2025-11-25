@@ -25,7 +25,10 @@ Currently, I am halfway through my studies, and over the last few years, I have 
 <img align="left" alt="LATEX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" />
 <br />
 
----
+
+## 🚀 What's Next:
+
+- 💻 Exploring Data Science and Machine Learning for Finance
 
 ## 🌐 Connect with me: <br/>
 <a href="https://www.linkedin.com/in/-francisco-branco-2005-/" target="blank">
