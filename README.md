@@ -1,14 +1,14 @@
-# Francisco Branco
+# 🐐 Francisco Branco
 
 **`Computer Engeneering Student`**
-
+## 🎓 About Me 
 My name is Francisco, I am 20 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Engineering at UBI (University of Beira Interior).
 
 Currently, I am halfway through my studies, and over the last few years, I have developed a strong interest in Finance and Economics alongside technology. My goal is to work in Quantitative Finance, a field where I can combine my passion for coding with my enthusiasm for financial markets.
 
----
 
-### 🧰 Languages and Tools
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
@@ -25,6 +25,11 @@ Currently, I am halfway through my studies, and over the last few years, I have 
 <img align="left" alt="LATEX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" />
 <br />
 
-#
+---
 
+## 🌐 Connect with me: <br/>
+<a href="https://www.linkedin.com/in/-francisco-branco-2005-/" target="blank">
+<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://github.com/Francisco-Branco-2/skill-icons/blob/main/icons/LinkedIn.svg" />
+</a>
+<br/>
 
