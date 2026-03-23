@@ -2,7 +2,7 @@
 
 **`Computer Science Engeneering Student`**
 ## 🎓 About Me 
-My name is Francisco, I am 21 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Engineering at UBI (University of Beira Interior).
+My name is Francisco, I am 21 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Science Engineering at UBI (University of Beira Interior).
 
 Currently, I am halfway through my studies, and over the last few years, I have developed a strong interest in Finance and Economics alongside technology. My goal is to work in Quantitative Finance, a field where I can combine my passion for coding with my enthusiasm for financial markets.
 
