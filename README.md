@@ -1,6 +1,6 @@
 # 🐐 Francisco Branco
 
-**`Computer Science Engeneering Student`**
+**`Computer Engeneering Student`**
 ## 🎓 About Me 
 My name is Francisco, I am 21 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Science Engineering at UBI (University of Beira Interior).
 
