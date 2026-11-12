@@ -2,9 +2,9 @@
   <defs>
     <style>
       @keyframes pop { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
-      .bg { fill: #eff6ff; }
-      .title { font-family: system-ui, sans-serif; font-size: 22px; font-weight: 700; fill: #1e40af; }
-      .desc { font-family: system-ui, sans-serif; font-size: 13px; fill: #1e3a8a; }
+      .bg { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; }
+      .title { font-family: system-ui, sans-serif; font-size: 22px; font-weight: 700; fill: #0969da; }
+      .desc { font-family: system-ui, sans-serif; font-size: 13px; fill: #24292f; }
     </style>
   </defs>
   <rect class="bg" width="260" height="160" rx="14" style="animation: pop 0.6s ease-out;"/>
