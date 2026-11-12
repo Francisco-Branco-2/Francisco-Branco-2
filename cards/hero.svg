@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs>
+    <style>
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes shine {
+        0% { opacity: 0.3; }
+        50% { opacity: 1; }
+        100% { opacity: 0.3; }
+      }
+      .name { font-family: system-ui, -apple-system, sans-serif; font-size: 48px; font-weight: 700; fill: #111; animation: fadeInUp 0.8s ease-out; }
+      .subtitle { font-family: system-ui, sans-serif; font-size: 20px; fill: #444; animation: fadeInUp 0.8s ease-out 0.2s both; }
+      .location { font-family: system-ui, sans-serif; font-size: 16px; fill: #666; animation: fadeInUp 0.8s ease-out 0.4s both; }
+      .accent { fill: #2563eb; animation: shine 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="280" fill="#fafafa" rx="16"/>
+  <text x="40" y="100" class="name">Francisco Branco</text>
+  <text x="40" y="150" class="subtitle">Computer Engineering Student @ UBI</text>
+  <text x="40" y="185" class="location">Águeda, Aveiro · Aiming for Quantitative Finance</text>
+  <text x="40" y="230" class="accent">goat mode activated</text>
+</svg>

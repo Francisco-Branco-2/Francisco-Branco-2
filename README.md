@@ -1,38 +1,31 @@
-# 🐐 Francisco Branco
+<p align="center">
+  <img src="./cards/hero.svg" width="100%" alt="Francisco Branco" />
+</p>
 
-**`Computer Engeneering Student`**
-## 🎓 About Me 
-My name is Francisco, I am 21 years old and originally from Águeda, Aveiro. I have always been curious about how things are made, which naturally led me to pursue a degree in Computer Science Engineering at UBI (University of Beira Interior).
+<p align="center">
+  <a href="https://github.com/Francisco-Branco-2"><img src="./cards/tile-code.svg" width="32%" alt="CODE" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/-francisco-branco-2005-/"><img src="./cards/tile-finance.svg" width="32%" alt="FINANCE" /></a>
+  &nbsp;
+  <a href="https://github.com/Francisco-Branco-2"><img src="./cards/tile-learn.svg" width="32%" alt="LEARN" /></a>
+</p>
 
-Currently, I am halfway through my studies, and over the last few years, I have developed a strong interest in Finance and Economics alongside technology. My goal is to work in Quantitative Finance, a field where I can combine my passion for coding with my enthusiasm for financial markets.
+---
 
+### About
 
+I'm Francisco, a Computer Engineering student at UBI (halfway through the degree), originally from Águeda, Aveiro. Curious about how things are built, with a growing focus on Quantitative Finance — combining code with markets, data and models.
 
-## 🧰 Languages and Tools
+### Tools & Languages
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Light.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" />
-<img align="left" alt="LATEX" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" />
-<br />
+Python · C · C++ · R · SQL (MySQL / PostgreSQL) · Linux · Docker · Git · LaTeX
 
+### Next
 
-## 🚀 What's Next:
+Exploring Data Science and Machine Learning applied to Finance.
 
-- 💻 Exploring Data Science and Machine Learning for Finance
+---
 
-## 🌐 Connect with me: <br/>
-<a href="https://www.linkedin.com/in/-francisco-branco-2005-/" target="blank">
-<img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://github.com/Francisco-Branco-2/skill-icons/blob/main/icons/LinkedIn.svg" />
-</a>
-<br/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/-francisco-branco-2005-/">LinkedIn</a>
+</p>

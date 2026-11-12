@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="160" viewBox="0 0 260 160">
+  <defs>
+    <style>
+      @keyframes pop { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+      .bg { fill: #fef2f2; }
+      .title { font-family: system-ui, sans-serif; font-size: 22px; font-weight: 700; fill: #991b1b; }
+      .desc { font-family: system-ui, sans-serif; font-size: 13px; fill: #7f1d1d; }
+    </style>
+  </defs>
+  <rect class="bg" width="260" height="160" rx="14" style="animation: pop 0.6s ease-out 0.15s both;"/>
+  <text x="20" y="55" class="title">FINANCE</text>
+  <text x="20" y="85" class="desc">Quantitative Finance</text>
+  <text x="20" y="110" class="desc">Markets · Data · Models</text>
+  <text x="20" y="135" class="desc">Code + Markets</text>
+</svg>

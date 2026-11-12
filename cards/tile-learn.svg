@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="160" viewBox="0 0 260 160">
+  <defs>
+    <style>
+      @keyframes pop { from { transform: scale(0.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+      .bg { fill: #fefce8; }
+      .title { font-family: system-ui, sans-serif; font-size: 22px; font-weight: 700; fill: #854d0e; }
+      .desc { font-family: system-ui, sans-serif; font-size: 13px; fill: #713f12; }
+    </style>
+  </defs>
+  <rect class="bg" width="260" height="160" rx="14" style="animation: pop 0.6s ease-out 0.3s both;"/>
+  <text x="20" y="55" class="title">LEARN</text>
+  <text x="20" y="85" class="desc">CS Engineering @ UBI</text>
+  <text x="20" y="110" class="desc">Halfway through degree</text>
+  <text x="20" y="135" class="desc">Always curious</text>
+</svg>
